@@ -1,6 +1,7 @@
 import MainContent from './components/MainContent';
 import logo from './assets/images/logo.png';
 
+// testing skipt ci
 function App() {
   return (
     <>
